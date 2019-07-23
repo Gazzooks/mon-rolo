@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mon-rolo/static/css/main.2ef4560e.chunk.css",
+    "main.js": "/mon-rolo/static/js/main.d4ce09d4.chunk.js",
+    "main.js.map": "/mon-rolo/static/js/main.d4ce09d4.chunk.js.map",
+    "runtime~main.js": "/mon-rolo/static/js/runtime~main.e72d7a61.js",
+    "runtime~main.js.map": "/mon-rolo/static/js/runtime~main.e72d7a61.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/mon-rolo/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/mon-rolo/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/mon-rolo/index.html",
+    "precache-manifest.5f16a1b1cd097596c3e924dba915b71a.js": "/mon-rolo/precache-manifest.5f16a1b1cd097596c3e924dba915b71a.js",
+    "service-worker.js": "/mon-rolo/service-worker.js",
+    "static/css/main.2ef4560e.chunk.css.map": "/mon-rolo/static/css/main.2ef4560e.chunk.css.map"
+  }
+}
